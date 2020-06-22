@@ -1,0 +1,32 @@
+{
+  "id": "5",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra dọn phòng khách",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_11.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_10.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Khi dọn dẹp phòng khách, người giúp việc cần làm những gì?",
+      "rightAnswer": [0],
+      "choices": [
+        "Gom rác, phủi bụi thảm, lau dọn tủ, bàn ghế và các đồ vật từ trên xuống dưới (chú ý nóc tủ và gầm bàn ghế, gầm tủ) cuối cùng là sắp xếp lại đồ đạc vào vị trí cũ rồi quét nhà, lau nhà.",
+        "Không cần để ý tới gầm bàn ghế và góc nhà. Lập tức quét nhà, vừa quét vừa gom rác làm từ đầu phòng đến cuối phòng.",
+        "Thu gom rác, dọn đồ đạc vào một chỗ và lau dọn phòng, không cần sắp xếp lại đồ đạc vào vị trí cũ."
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Cần lưu ý gì khi lau dọn các kệ tủ, tivi phòng khách?",
+      "rightAnswer": [1],
+      "choices": [
+        "Khăn phải thật khô.",
+        "Khăn ẩm đã được vắt khô. Hoặc xịt nước lau kính lên khăn rồi lau (phải đảm bảo xịt vừa đủ ẩm)",
+        "Xịt nước lau kính trực tiếp lên kệ rồi lau nhanh"
+      ]
+    }
+  ]
+}

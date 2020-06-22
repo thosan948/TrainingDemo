@@ -1,0 +1,27 @@
+{
+  "id": "2",
+  "type": "LESSON",
+  "title": "Định hướng nghề nghiệp",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_3.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_1.json",
+  "quizzLink": null,
+  "content": [
+    {
+      "banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/9NbakX6ustHj9KSiG"
+    },
+    {
+      "h1": "Giúp việc nhà, một nghề như bao nghề"
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Trong cuộc sống hiện nay, khi mà hầu hết mọi người đã có những cái nhìn khá tích cực hơn về nghề giúp việc nhà, không còn những hà khắc như xưa. Đừng vì bất kỳ một định kiến xưa cũ gì mà làm một người phụ nữ phải mặc cảm về công việc của họ. Công việc nào cũng có cái hay, cái dở; nghề nghiệp nào cũng có sự vất vả và khó khăn, thế nhưng các chị đã cố gắng chinh phục và vượt qua tất cả. Hãy mở rộng lòng mình và đồng cảm với những người phụ nữ giúp việc nhà."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra dọn dẹp bếp",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_9.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_8.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Trước khi dọn bếp người giúp việc nên làm gì đầu tiên ?",
+      "rightAnswer": [1],
+      "choices": [
+        "Lau chùi các dụng cụ trên bếp trước (lò vi sóng, lò nướng, bếp…) sau đó đến mặt bếp.",
+        "Sắp xếp các dụng cụ trên bếp gọn gàng, bỏ chén dĩa và ly tách bẩn vào bồn rửa ngâm trong 5 phút bằng nước thường hoặc nước ấm để giảm độ bám của chất bẩn và dầu mỡ.",
+        "Lau chùi các vật dụng trong bếp (tủ lạnh, bàn ghế, tủ kệ…)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "7",
+  "type": "LESSON",
+  "title": "Cách sử dụng chất tẩy rửa",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_8.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_6.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_2.json",
+  "quizzId": "2",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_1.json",
+  "content" : [
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/idNWGDTwGBAeFKKXi"},
+    {"line": [
+      {"text": "Các CTV nên chuẩn bị sẵn vài loại chất tẩy rửa thông dụng để phục vụ cho công việc dọn dẹp của mình. Tốt nhất nên chọn các thương hiệu nổi tiếng như Gift, Cif, Sunlight, Vim, Sumo…"}
+    ]},
+    {"h1": "Phân loại"},
+    {"line": [
+      {"text": "Các chất tẩy rửa có thể được phân loại thành các nhóm cơ bản như sau:"}
+    ]},
+    {"list": [
+      {"line": [
+        {"text": "Dùng để lau kính"}
+      ]},
+      {"line": [
+        {"text": "Dùng để tẩy các vết dầu mỡ trong khu vực bếp"}
+      ]},
+      {"line": [
+        {"text": "Dùng để tẩy rửa trong khu vực nhà vệ sinh"}
+      ]},
+      {"line": [
+        {"text": "Dùng để lau nhà"}
+      ]},
+      {"line": [
+        {"text": "Dùng để tẩy các vết bẩn bám trên các vật liệu đặc biệt như Inox, Gỗ, Sứ, Nhựa, Đá…"}
+      ]}
+    ]},
+    {"h1": "Quy tắc sử dụng"},
+    {"list": [
+      {"line": [
+        {"text": "Hỏi ý kiến khách trước khi sử dụng hóa chất để tẩy rửa (vì một số khách dị ứng hoặc không cho phép sử dụng hóa chất)."}
+      ]},
+      {"line": [
+        {"text": "Luôn đeo bao tay khi sử dụng để bảo vệ sức khỏe."}
+      ]},
+      {"line": [
+        {"text": "Chỉ sử dụng khi đã biết chính xác công dụng của hóa chất đó; Kiểm tra hạn sử dụng."}
+      ]},
+      {"Line": [
+        {"text": "Sau khi sử dụng cần phải rửa lại bằng nước sạch để đảm bảo sức khỏe cho gia đình khách."}
+      ]},
+      {"line": [
+        {"text": "Tuyệt đối không sử dụng các chất tẩy rửa mạnh cho các vật dụng Inox trong nhà tắm."}
+      ]}
+    ]}
+  ]
+}

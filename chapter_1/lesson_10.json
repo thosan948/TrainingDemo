@@ -1,0 +1,40 @@
+{
+  "id": "10",
+  "type": "LESSON",
+  "title": "Dọn phòng khách",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_11.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_9.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_5.json",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_4.json",
+  "quizzId": "5",
+  "content" : [
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/teccCAEAhx8xQ3imQ"},
+    {"h1": "Quy trình lau dọn phòng khách"},
+    {"list": [
+      {"line": [
+        {"text": "Nếu trên bàn khách có ly, tách, ấm trà thì đem rửa và để ráo, khi dọn xong sẽ mang vào để lại như cũ;"}
+      ]},
+      {"line": [
+        {"text": "Quét bụi trần nhà (phủ che sofa nếu cần);"}
+      ]},
+      {"line": [
+        {"text": "Phủi bụi rèm cửa, cửa sổ; lau cửa kính"}
+      ]},
+      {"line": [
+        {"text": "Lau bàn, ghế sofa, tủ, kệ TV (dùng khăn ẩm)"}
+      ]},
+      {"line": [
+        {"text": "Quét hoặc hút bụi sàn nhà;"}
+      ]},
+      {"line": [
+        {"text": "Lau sàn nhà, đối với sàn gỗ phải lau theo vân gỗ bằng khăn vắt thật khô;"}
+      ]},
+      {"line": [
+        {"text": "Thu gom và đổ rác;"}
+      ]},
+      {"line": [
+        {"text": "Nhìn bao quát lại một lần nữa để đảm bảo mọi thứ hoàn hảo."}
+      ]}
+    ]}
+  ]
+}

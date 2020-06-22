@@ -1,0 +1,43 @@
+{
+  "id": "8",
+  "type": "LESSON",
+  "title": "Dọn nhà bếp",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_9.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_7.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_3.json",
+  "quizzId": "3",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_2.json",
+  "content" : [
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/SyRkuW4DXDeH5MxAd"},
+    {"h1": "Quy trình dọn phòng bếp"},
+    {"list": [
+      {"line": [
+        {"text": "Gom chén, đĩa dơ, nồi, chảo cho vào bồn rửa chén. Rửa xong thì úp gọn cho ráo."}
+      ]},
+      {"line": [
+        {"text": "Vệ sinh luôn bồn rửa chén và lau khô nước khu vực xung quanh."}
+      ]},
+      {"line": [
+        {"text": "Lau tủ trên kệ bếp, từ cao xuống thấp."}
+      ]},
+      {"line": [
+        {"text": "Vệ sinh khu vực bếp nấu: như máy hút khói, bề mặt bếp gas, bếp điện, nồi cơm điện, bình siêu tốc, lau luôn mảng tường xung quanh vì rất hay bị dính dầu mỡ."}
+      ]},
+      {"line": [
+        {"text": "Nếu còn thức ăn trên bàn thì sắp xếp hoặc bọc lại theo yêu cầu của khách."}
+      ]},
+      {"line": [
+        {"text": "Vệ sinh tủ lạnh nếu khách yêu cầu."}
+      ]},
+      {"line": [
+        {"text": "Quét hoặc hút bụi sàn nhà."}
+      ]},
+      {"line": [
+        {"text": "Thu gom và đổ rác. Nếu có đồ ăn thừa cần báo khách trước khi mang đi vứt hoặc đổ."}
+      ]},
+      {"line": [
+        {"text": "Nhìn bao quát lại một lần nữa để đảm bảo mọi thứ hoàn hảo."}
+      ]}
+    ]}
+  ]
+}

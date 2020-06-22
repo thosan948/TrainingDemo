@@ -1,0 +1,22 @@
+{
+  "id": "1",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra dụng cụ dọn dẹp",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_7.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_6.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Bộ công dụng cụ cơ bản cần có của một người giúp việc nhà bao gồm những gì ?",
+      "rightAnswer": [3],
+      "choices": [
+        "Chổi - Ky hốt rác - Hóa chất các loại ( nước lau sàn,nước lau kính, nước rửa chén, vim tẩy bồn cầu,...)",
+        "Gạt kính - Cọ mút mềm - Xô gấp gọn - Cây lau đa năng.",
+        "Bao tay y tế - Bộ khăn đa năng - Balo đựng tất cả dụng cụ.",
+        "Tất cả đáp án trên."
+      ]
+    }
+  ]
+}

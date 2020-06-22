@@ -1,0 +1,277 @@
+{
+  "id": "0",
+  "type": "QUIZZ",
+  "title": "BÀI KIỂM TRA KỸ NĂNG XỬ LÝ TÌNH HUỐNG",
+  "scoreRate": 80,
+  "nextLesson": null,
+  "isFinal": true,
+  "previousQuizz": null,
+  "componentQuizzIds": ["0", "1", "2", "3", "4", "5", "6"],
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Nếu công việc bắt đầu lúc 09:00 thì người giúp việc nên:",
+      "rightAnswer": [
+        1
+      ],
+      "choices": [
+        "Sắp xếp thời gian để đúng 9:00 có mặt tại nhà khách.",
+        "Sắp xếp thời gian để có mặt tại nhà khách sớm hơn giờ làm ít nhất 05 phút.",
+        "Sắp xếp thời gian để có mặt càng sớm càng tốt."
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Khi đến nhà khách và nhận thấy khách hàng là 1 người khó tính, thái độ không được vui vẻ thì người giúp việc nên làm gì ?",
+      "rightAnswer": [
+        1
+      ],
+      "choices": [
+        "Không cần quan tâm đến khách hàng, chỉ cần tập trung làm việc, khách nói gì kệ họ.",
+        "Tập trung vào công việc nhưng vẫn vui vẻ cởi mở với khách hàng, sẵn sàng hợp tác làm công việc mà họ yêu cầu.",
+        "Nếu khách khó chịu với mình thì mình cũng khó chịu lại với họ sau đó báo công ty để được hỗ trợ."
+      ]
+    },
+    {
+      "id": "2",
+      "type": "ONE_CHOICE",
+      "question": "Khi đến nhà Khách hàng dọn dẹp, tác phong của người giúp việc nên như thế nào?",
+      "rightAnswer": [
+        0
+      ],
+      "choices": [
+        "Làm việc nhanh nhẹn, nghiêm túc, tập trung và không làm việc riêng trong giờ làm việc.",
+        "Khi đã hoàn thành công việc khách giao mà vẫn còn giờ thì có thể du di ngồi nghỉ ngơi một chút.",
+        "Công việc nhà khách quá nhiều thì chủ động chọn công việc nào đơn giản, nhanh chóng để hoàn thành trước, để hết giờ thì ít ra cũng đã hoàn thành công việc nào đó cho khách."
+      ]
+    },
+    {
+      "id": "3",
+      "type": "ONE_CHOICE",
+      "question": "Khi đến nhà khách làm, người giúp việc nên giữ thái độ như thế nào?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "A. Tôn trọng khách hàng.",
+        "B. Vui vẻ và cư xử hòa nhã với khách hàng.",
+        "Đáp án A và B",
+        "Không nên quá tập trung làm việc mà phải thường xuyên trò chuyện tán gẫu với khách hàng để tạo sự thiện cảm."
+      ]
+    },
+    {
+      "id": "4",
+      "type": "ONE_CHOICE",
+      "question": "Sau khi hoàn thành công việc, người giúp việc nên:",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Báo khách đã hoàn thành công việc và nhờ khách thanh toán để ra về",
+        "Tự đi kiểm tra một vòng trước, sau đó báo để khách kiểm tra lại và vui vẻ dọn dẹp lại nếu khách chưa hài lòng.",
+        "Cất dụng cụ gọn gàng - Tự đi kiểm tra một vòng trước, sau đó báo để khách kiểm tra lại và vui vẻ dọn dẹp lại nếu khách chưa hài lòng."
+      ]
+    },
+    {
+      "id": "5",
+      "type": "ONE_CHOICE",
+      "question": "Khi không thể đến làm việc đúng giờ người giúp việc cần làm gì?",
+      "rightAnswer": [
+        1
+      ],
+      "choices": [
+        "Không cần xác nhận với  khách hàng vì đến muộn, và tiếp tục đến nơi làm việc, sau đó tự giác làm bù.",
+        "Trao đổi với khách hàng vì một số lý do đột xuất (hỏng xe.v...v) và xin phép khách hàng đến muộn và hứa sẽ làm bù số giờ bị muộn.",
+        "Gọi báo công ty và không cần đi làm nữa vì đã muộn rồi."
+      ]
+    },
+    {
+      "id": "6",
+      "type": "ONE_CHOICE",
+      "question": "Khi khách hàng mở cửa để người giúp việc vào làm thì nên nói gì khi gặp khách hàng ?",
+      "rightAnswer": [
+        0
+      ],
+      "choices": [
+        "Chào khách, giới thiệu tên, đến từ công ty bTaskee để dọn dẹp nhà cho khách. Hỏi khách cần mình làm gì trước và nơi để dụng cụ làm việc.",
+        "Mỉm cười với khách rồi vào lấy dụng cụ làm việc.",
+        "Chào khách, hỏi khách dụng cụ ở đâu và đi làm việc."
+      ]
+    },
+    {
+      "id": "7",
+      "type": "ONE_CHOICE",
+      "question": "Khi khách hàng yêu cầu bạn dọn dẹp theo cách làm của khách hàng nhưng bạn nhận thấy không đúng thì nên xử lý như thế nào ?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Vui vẻ chấp nhận làm theo yêu cầu của khách hàng và không nói gì thêm.",
+        "Giải thích cách làm đó là sai và không đồng ý làm theo, sẽ làm theo cách của mình.",
+        "Trước tiên sẽ vui vẻ nhận lời làm theo yêu cầu của khách, sau đó giải thích thêm là nếu làm theo cách làm của khách sẽ có tác hại không mong muốn nào để khách quyết định có làm theo cách đó nữa hay không thì mình sẽ làm."
+      ]
+    },
+    {
+      "id": "8",
+      "type": "ONE_CHOICE",
+      "question": "Khi làm việc tại nhà khách hàng bạn nên mặc trang phục như thế nào?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Mặc đồ thoải mái để thuận tiện cho công việc.",
+        "Khách cho phép thì không cần mang đồng phục công ty.",
+        "Luôn luôn mặc đồng phục của công ty khi đến làm việc."
+      ]
+    },
+    {
+      "id": "9",
+      "type": "ONE_CHOICE",
+      "question": "Khi đi làm về và phát hiện điểm sao bị giảm, nghi ngờ là khách hàng A đánh giá thấp, bạn sẽ làm gì ?",
+      "rightAnswer": [
+        1
+      ],
+      "choices": [
+        "Liên hệ lại ngay khách hàng A và hỏi lý do tại sao đánh giá thấp, yêu cầu sửa sao lại.",
+        "Liên hệ công ty để được giải thích lí do bị đánh giá thấp và rút kinh nghiệm, nếu khách sai thì trình bày để công ty làm việc với khách. Tuyệt đối không liên hệ làm phiền khách."
+      ]
+    },
+    {
+      "id": "10",
+      "type": "ONE_CHOICE",
+      "question": "Để phòng tránh trường hợp khách nghi ngờ lấy cắp đồ, tiền bạc thì người giúp việc nên làm gì?",
+      "rightAnswer": [
+        4
+      ],
+      "choices": [
+        "Không nên mang túi xách, balo khi đến nhà khách làm việc.",
+        "Khi xong công việc, nếu có mang túi đồ dụng cụ thì phải đưa cho khách kiểm tra trước khi về.",
+        "Trước khi làm việc, nên nhắc khách đóng, khóa các tủ đồ và cất các vật dụng giá trị, quan trọng.",
+        "Khi mang rác đi đổ thì phải báo trước với khách hàng.",
+        "Tất cả ý trên đều đúng.",
+        "Tất cả ý trên đều sai."
+      ]
+    },
+    {
+      "id": "11",
+      "type": "ONE_CHOICE",
+      "question": "Trong quá trình làm việc, vô tình làm đổ, vỡ đồ trong nhà của khách, không biết đồ đó giá trị hay không, người giúp việc nên làm gì?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Dọn dẹp quanh chỗ bị vỡ, thu gom đồ bị vỡ cất giấu chỗ nào khách không để ý đến.",
+        "Thu dọn đồ đạc bị vỡ đem ném thùng rác và tiếp tục công việc của mình như bình thường.",
+        "Bình tĩnh, khéo léo trao đổi với khách hàng và hứa sẽ chịu trách nhiệm vì đây là lỗi do mình gây ra. Nhờ công ty hỗ trợ trao đổi với khách đối với những trường hợp đồ bị hư hỏng có giá trị quá lớn."
+      ]
+    },
+    {
+      "id": "12",
+      "type": "ONE_CHOICE",
+      "question": "Nếu gặp khách nước ngoài, mà cần giao tiếp với khách, bạn sẽ làm gì?",
+      "rightAnswer": [
+        0
+      ],
+      "choices": [
+        "Sử dụng Google dịch hoặc các trang dịch. Tự trang bị thêm tiếng anh giao tiếp cơ bản.",
+        "Dùng tay để diễn tả, nếu khách hàng không hiểu thì cố gắng kiếm việc làm cho xong rồi về.",
+        "Hạn chế nhận những công việc của khách nước ngoài.",
+        "Gọi tổng đài xin hủy việc vì không biết giao tiếp."
+      ]
+    },
+    {
+      "id": "13",
+      "type": "ONE_CHOICE",
+      "question": "Nếu đã hoàn thành công việc cho khách, cuối giờ Khách yêu cầu làm thêm, bạn sẽ xử lý như thế nào?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Cố gắng làm hết sau đó yêu cầu khách thêm tiền vì làm lố giờ.",
+        "Cố gắng làm hết để khách vui lòng và đặt lại dịch vụ.",
+        "Hỏi về công việc mà khách cần làm thêm, gọi ngay về công ty để nhờ hỗ trợ. Hoặc có thể từ chối khéo nếu không thể làm thêm cho khách."
+      ]
+    },
+    {
+      "id": "14",
+      "type": "ONE_CHOICE",
+      "question": "Khi đến làm việc khách hàng khen người giúp việc làm tốt và muốn người giúp việc đến  làm thường xuyên mà không thông qua công ty nữa, nên làm gì ?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Đồng ý tới làm theo yêu cầu khách và không cần báo công ty.",
+        "Giả vờ đồng ý cho khách vui lòng nhưng không tới làm.",
+        "Từ chối khéo và nhờ khách tiếp tục đặt việc trên ứng dụng, sau đó liên hệ báo về tổng đài nhờ hỗ trợ.",
+        "Từ chối thẳng khách vì không muốn làm riêng."
+      ]
+    },
+    {
+      "id": "15",
+      "type": "ONE_CHOICE",
+      "question": "Đang trong quá trình dọn dẹp, phát hiện tiền hoặc đồ vật có giá trị nằm dưới góc sàn, người giúp việc nên làm gì ?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Lấy mang về vì khách hàng không biết đã làm rơi tại góc sàn",
+        "Cầm lên đưa khách hàng báo thấy dưới góc sàn, gợi ý để khách hàng thưởng thêm vì mình đã làm việc tốt.",
+        "Để nguyên hiện trạng, tìm và báo khách hàng về tiền hoặc món đồ đã phát hiện."
+      ]
+    },
+    {
+      "id": "16",
+      "type": "ONE_CHOICE",
+      "question": "Hoàn thành xong công việc mà vẫn còn dư 30 phút, bạn sẽ làm gì?",
+      "rightAnswer": [
+        2
+      ],
+      "choices": [
+        "Vì đã hoàn thành xong nên tranh thủ báo khách trả tiền và ra về.",
+        "Cứ làm từ từ vì dư nhiều thời gian.",
+        "Báo với khách đã xong việc và nhờ khách hướng dẫn các công việc khác để làm thêm cho hết giờ."
+      ]
+    },
+    {
+      "id": "17",
+      "type": "ONE_CHOICE",
+      "question": "Khi không tìm được địa chỉ nhà khách hoặc địa chỉ nhà khách khó tìm thì phải làm sao?",
+      "rightAnswer": [
+        0
+      ],
+      "choices": [
+        "Gọi khách hàng nhờ chỉ địa chỉ nhà chính xác và hướng dẫn đường đi. Xin lỗi khách nếu đến trễ.",
+        "Tự tìm đường đi, nếu đến trễ thì nói do nhà khách khó tìm nên đến trễ.",
+        "Gọi về công ty nhờ tổng đài hủy công việc."
+      ]
+    },
+    {
+      "id": "18",
+      "type": "ONE_CHOICE",
+      "question": "Trường hợp nào sau đây sẽ được liên hệ với khách hàng?",
+      "rightAnswer": [
+        0
+      ],
+      "choices": [
+        "Không tìm được địa chỉ khách hàng",
+        "Xin hủy công việc",
+        "Xin thay đổi thời gian làm việc",
+        "Liên lạc để làm riêng với khách hàng."
+      ]
+    },
+    {
+      "id": "19",
+      "type": "ONE_CHOICE",
+      "question": "Khi nhận việc rồi nhưng bận việc đột xuất không thể đến làm được thì phải làm sao?",
+      "rightAnswer": [
+        1
+      ],
+      "choices": [
+        "Gọi cho Khách và trình bày rõ về trường hợp đột xuất, nhờ khách hủy công việc giùm.",
+        "Gọi tổng đài và trình bày rõ về trường hợp đột xuất, nhờ tổng đài hỗ trợ hủy công việc và tìm Cộng Tác Viên thay thế mình đến làm."
+      ]
+    }
+  ]
+}

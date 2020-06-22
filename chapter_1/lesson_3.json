@@ -1,0 +1,81 @@
+{
+  "id": "3",
+  "type": "LESSON",
+  "title": "Tác phong, diện mạo của Cộng Tác Viên",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_4.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_2.json",
+  "quizzLink": null,
+  "content": [
+    {
+      "banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/KeoLQN28FAjc4pNqe"
+    },
+    {
+      "line": [
+        {
+          "text": "Diện mạo và tác phong cá nhân là đại diện cho hình ảnh của công ty và cá nhân CTV. Diện mạo và tác phong tạo cho Khách hàng cảm nhận về tính chuyên nghiệp về việc phục vụ, góp phần nâng cao vị thế, đẳng cấp của cá nhân CTV nói riêng và bTaskee nói chung."
+        }
+      ]
+    },
+    {
+      "h1": "1. Mặc đồng phục bTaskee lịch sự & chỉnh chu"
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Nhận biết đây là nhân viên bTaskee, tạo cho Khách hàng sự chuyên nghiệp và thiện cảm."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Tạo sự tin tưởng, thống nhất và đồng đều."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Không phân biệt CTV cũ – mới, chất lượng như nhau."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/KoGX2kfXz4CGkXDcw"
+    },
+    {
+      "image_note": "Trang phục không chỉnh chu"
+    },
+    {
+      "image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/zgiEAA2AxtWbcH5jm"
+    },
+    {
+      "image_note": "Trang phục chỉnh chu"
+    },
+    {
+      "h1": "2. Diện mạo và phong cách cá nhân"
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Về phía Khách hàng: Nhận biết đây là nhân viên bTaskee, tạo sự tin tưởng, thống nhất và đồng đều, không phân biệt CTV cũ – mới, chất lượng như nhau."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Về phía các CTV: Tạo sự chuyên nghiệp và thiện cảm. Sự chỉnh chu còn thể hiện ở tóc tai gọn gàng, đồng phục sạch sẽ, giữ gìn vệ sinh cá nhân…"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

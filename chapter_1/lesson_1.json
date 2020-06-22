@@ -1,0 +1,85 @@
+{
+  "id": "1",
+  "type": "LESSON",
+  "title": "Lợi ích khi trở thành CTV",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_2.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_0.json",
+  "quizzLink": null,
+  "content": [
+    {
+      "banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/suHJ9fWbroM2AqJxk"
+    },
+    {
+      "h1": "1. Có nguồn thu nhập cao, ổn định"
+    },
+    {
+      "line": [
+        {
+          "text": "Với mức thu nhập cơ bản 51.000vnđ/giờ, một CTV có thể dễ dàng kiếm được từ 8-10 triệu/tháng nếu thường xuyên theo dõi ứng dụng và siêng nhận việc đi làm."
+        }
+      ]
+    },
+    {
+      "h1": "2. Có sự linh hoạt, chủ động thời gian làm việc"
+    },
+    {
+      "line": [
+        {
+          "text": "Các CTV có thể hoàn toàn chủ động sắp xếp thời gian và nhận các công việc tùy theo lịch rảnh của mình. Nếu cảm thấy không khỏe, bận việc gia đình hay phải dành thời gian cho các kế hoạch cá nhân khác…các CTV có thể tạm nghỉ, không nhận việc."
+        }
+      ]
+    },
+    {
+      "h1": "3. Không bị phụ thuộc vào một chủ nhà duy nhất"
+    },
+    {
+      "line": [
+        {
+          "text": "Với hơn 100.000 Khách hàng trên hệ thống, các CTV sẽ luôn có công việc để nhận và đi làm. Nếu cảm thấy không thoải mái hay không phù hợp với Khách hàng này, các CTV có thể nhận việc của Khách hàng khác."
+        }
+      ]
+    },
+    {
+      "h1": "4. Được bảo vệ những quyền lợi cá nhân trong khi làm việc"
+    },
+    {
+      "line": [
+        {
+          "text": "Quyền lợi khi trở thành CTV của bTaskee."
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Bảo hiểm tai nạn cho người lao động."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Hỗ trợ hủy hoặc từ chối những công việc không phù hợp tính chất dọn dẹp gia đình."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Từ chối những khách hàng có thái độ, hành vi không đúng mực."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Khi xảy ra tranh chấp, hiểu lầm với Khách hàng."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

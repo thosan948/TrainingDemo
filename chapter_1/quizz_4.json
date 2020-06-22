@@ -1,0 +1,21 @@
+{
+  "id": "4",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra dọn phòng ngủ",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_10.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_9.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Trước khi lau dọn phòng ngủ, người giúp việc cần làm gì?",
+      "rightAnswer": [0],
+      "choices": [
+        "Hỏi khách xem có cần thay ga giường, gối không? Sau đó phủi bụi và làm giường trước rồi mới lau bụi bàn ghế, giường và quét, lau sàn.",
+        "Lau bàn ghế, lau sàn rồi mới làm giường, không cần hỏi khách gì hết.",
+        "Chỉ cần lau sàn và bàn ghế thôi, không cần làm giường."
+      ]
+    }
+  ]
+}

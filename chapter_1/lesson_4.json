@@ -1,0 +1,137 @@
+{
+  "id": "4",
+  "type": "LESSON",
+  "title": "Thái độ và Chất lượng công việc",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_5.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_3.json",
+  "quizzLink": null,
+  "content": [
+    {
+      "banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/GdkBjTQJExN2FroN9"
+    },
+    {
+      "line": [
+        {
+          "text": "Khi đến nhà Khách hàng làm việc, yếu tố quan trọng nhất để đánh giá kỹ năng của CTV chính là Thái độ và Chất lượng ca làm. Các CTV nên xem nhà Khách hàng cũng như nhà mình và làm việc kỹ càng, nhiệt tình, đặc biệt là không câu giờ."
+        }
+      ]
+    },
+    {
+      "h1": "1. Đi làm đúng giờ"
+    },
+    {
+      "line": [
+        {
+          "text": "Thể hiện sự chuyên nghiệp, CTV nên sắp xếp và đến nhà Khách sớm ít nhất 05 phút để đảm bảo tìm được đúng nhà Khách và đến đúng giờ."
+        }
+      ]
+    },
+    {
+      "h1": "2. Giao tiếp lịch sự, nhã nhặn, tế nhị, đúng mực với khách hàng"
+    },
+    {
+      "line": [
+        {
+          "text": "CTV là những người giúp việc hiện đại, văn minh và tử tế. Do đó, nếu Khách hàng sai, cư xử chưa tốt, các CTV nên:"
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Giọng nói rõ ràng vui vẻ sẽ tạo điều ra được tính chuyên nghiệp của mình và tạo cho khách ấn tượng tốt."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Luôn gây thiện cảm với mỗi vị khác bằng nụ cười và chào hỏi Khách hàng."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Trong bất hoàn cảnh nào, không được phép nói tục chửi bậy và dùng lời nói thiếu văn hóa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h1": "3. Không tò mò về khách hàng, nói xấu khách hàng khác hay về các CTV khác trong quá trình làm việc"
+    },
+    {
+      "line": [
+        {
+          "text": "Khách hàng cảm thấy không thoải mái, đôi khi là rất khó chịu khi những người giúp việc nói quá nhiều. CTV của bTaskee luôn lịch sự và nhã nhặn nên chỉ nên tập trung vào công việc của mình."
+        }
+      ]
+    },
+    {
+      "h1": "4. Khách hàng cảm thấy không thoải mái, đôi khi là rất khó chịu khi những người giúp việc nói quá nhiều. CTV của bTaskee luôn lịch sự và nhã nhặn nên chỉ nên tập trung vào công việc của mình."
+    },
+    {
+      "line": [
+        {
+          "text": "Nhà khách là không gian riêng tư của khách, do đó khi đến làm việc, CTV nên tôn trọng và xin phép trước khi muốn sử dụng phòng ốc hay các vật dụng trong gia đình Khách."
+        }
+      ]
+    },
+    {
+      "h1": "5. Không tự ý quyết định. Nếu không rõ phải hỏi ý kiến khách hàng, trường hợp phát sinh khác phải liên hệ về tổng đài để được hỗ trợ"
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Khi đến làm, CTV chủ động hỏi Khách về khu vực ưu tiên thực hiện công việc và làm theo yêu cầu của Khách. Nếu Khách không có yêu cầu đặc biệt, CTV thực hiện theo quy trình chuẩn đã được hướng dẫn."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Ngay khi có thắc mắc, hỏi lại Khách để chắc chắn, không tự ý quyết định để tránh làm mất thời gian làm lại hoặc làm hỏng việc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h1": "6. Sau khi hoàn thành công việc, chủ động báo khách kiểm tra và làm lại nếu khách chưa hài lòng"
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Với mục đích là làm hài lòng khách hàng, sau khi hoàn thành công việc, CTV nên chủ động báo với khách và nhờ kiểm tra lại."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Nếu hoàn thành tốt, khách hàng sẽ rất hài lòng và đánh giá tốt cho CTV, phần vì chất lượng làm việc tốt, phần vì thái độ tốt."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Nếu chưa tốt, CTV vui vẻ làm lại, khách cũng sẽ hài lòng, mặc dù chất lượng chưa tốt nhưng CTV đã được điểm cộng trong mắt khách hàng vì thái độ tốt và văn minh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "video": "vN9SM8Md99I"
+    }
+  ]
+}

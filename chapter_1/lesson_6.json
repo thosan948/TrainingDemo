@@ -1,0 +1,52 @@
+{
+  "id": "6",
+  "type": "LESSON",
+  "title": "Dụng cụ dọn dẹp",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_7.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_5.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_1.json",
+  "quizzId": "1",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_0.json",
+  "content" : [
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/v9z55rK2FJfRuzJbo"},
+    {"h1": "CÁC DỤNG CỤ CƠ BẢN CHO VIỆC DỌN DẸP NHÀ"},
+    {"list": [
+      {"line": [
+        {"text": "Khăn lau đa năng"}
+      ]},
+      {"line": [
+        {"text": "Cây gạt kính"}
+      ]},
+      {"line": [
+        {"text": "Chổi và ky hốt rác"}
+      ]},
+      {"line": [
+        {"text": "Găng tay"}
+      ]},
+      {"line": [
+        {"text": "Bàn chải"}
+      ]},
+      {"line": [
+        {"text": "Cây lau đa năng"}
+      ]},
+      {"line": [
+        {"text": "Nước rửa kính"}
+      ]},
+      {"line": [
+        {"text": "Nước tẩy nhà vệ sinh"}
+      ]},
+      {"line": [
+        {"text": "Kem tẩy đa năng"}
+      ]},
+      {"line": [
+        {"text": "Giấm/ Baking soda"}
+      ]},
+      {"line": [
+        {"text": "Nước rửa chén"}
+      ]}
+    ]},
+    {"line": [
+      {"text": "Các CTV có thể mua ở các chợ truyền thống hoặc siêu thị như Co.op Mart, Lotte, Big C, hệ thống Aeon mall,  chợ Bình Tây (Chợ Lớn), các siêu thị chuyên bán sỉ như MM MEGA MARKET… giá cả các mặt hàng đa dạng, có các khuyến mãi hấp dẫn."}
+    ]}
+  ]
+}

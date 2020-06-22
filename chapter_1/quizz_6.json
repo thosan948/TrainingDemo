@@ -1,0 +1,36 @@
+{
+  "id": "6",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra dọn nhà vệ sinh",
+  "scoreRate": 80,
+  "nextLesson": null,
+  "isFinal": true,
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_11.json",
+  "componentQuizzIds": ["0", "1", "2", "3", "4", "5"],
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Nhà vệ sinh sau khi dọn dẹp cần phải đạt tiêu chí nào?",
+      "rightAnswer": [4],
+      "choices": [
+        "Không có nước trên sàn và vết bẩn trên các bề mặt (tường, chai lọ, xô chậu …)",
+        "Các hạt nước không bám trên kính và bồn rửa mặt, không còn rác.",
+        "Bồn cầu cọ sạch trong lẫn ngoài.",
+        "Dụng cụ cá nhân của khách hàng được sắp xếp gọn gàng, đúng vị trí.đẹp mắt.",
+        "Tất cả đáp án trên đều đúng."
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Khi dọn dẹp nhà cửa, khu vực nào là nơi người giúp việc sẽ thực hiện vệ sinh sau cùng?",
+      "rightAnswer": [2],
+      "choices": [
+        "Nhà bếp vì là nơi nhiều đồ nhất",
+        "Phòng ngủ vì là nơi cần làm sạch nhất",
+        "Nhà vệ sinh vì là nơi ra vào thường xuyên để vệ sinh các dụng cụ và lấy nước để dọn dẹp các khu vực khác."
+      ]
+    }
+  ]
+}

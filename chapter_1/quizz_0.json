@@ -1,0 +1,88 @@
+{
+  "id": "0",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra quy trình dọn dẹp chung",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_6.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_5.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Trong những công việc dưới đây, công việc nào mang tính chất là dọn dẹp gia đình ?",
+      "rightAnswer": [0],
+      "choices": [
+        "Dọn dẹp lau chùi, vệ sinh nhà cửa, giặt quần áo, ủi đồ, nấu ăn.",
+        "Vệ sinh gạch vôi, vữa nhà mới xây, cắt cỏ.",
+        "Trông em bé.",
+        "Tất cả đáp án trên."
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Quy tắc chung dọn dẹp nhà là gì?",
+      "rightAnswer": [2],
+      "choices": [
+        "Từ trên xuống dưới, từ ngoài vào trong, nơi sạch trước nơi bẩn sau",
+        "Từ dưới lên trên, từ trong ra ngoài, nơi sạch trước nơi bẩn sau.",
+        "Từ trên xuống dưới từ trong ra ngoài làm đến đâu gọn sạch đến đó theo hình thức cuốn chiếu.",
+        "Ưu tiên làm nơi bẩn trước nơi sạch sau, miễn sao tất cả sạch sẽ gọn gàng."
+      ]
+    },
+    {
+      "id": "2",
+      "type": "ONE_CHOICE",
+      "question": "Đối với sàn bằng gỗ người giúp việc sẽ lau như thế nào?",
+      "rightAnswer": [2],
+      "choices": [
+        "Lau bằng cây lau sàn ướt.",
+        "Lau bằng khăn khô vì khăn ướt sẽ hư gỗ của nhà khách.",
+        "Lau bằng khăn ướt vắt thật khô."
+      ]
+    },
+    {
+      "id": "3",
+      "type": "ONE_CHOICE",
+      "question": "Để đảm bảo chất lượng đồ ủi, người giúp việc cần kiểm tra những gì?",
+      "rightAnswer": [2],
+      "choices": [
+        "Kiểm tra xem bàn ủi có sạch không, sau đó ủi đồ như bình thường.",
+        "Không quan trọng ủi đồ, chỉ cần dọn dẹp tốt là được rồi.",
+        "Kiểm tra vệ sinh bàn ủi, kiểm tra nhiệt độ bàn ủi đảm bảo phù hợp với đồ cần ủi."
+      ]
+    },
+    {
+      "id": "4",
+      "type": "ONE_CHOICE",
+      "question": "Nếu KHÔNG biết cách sử dụng máy móc, vật dụng trong gia đình thì người giúp việc phải làm gì?",
+      "rightAnswer": [1],
+      "choices": [
+        "Tự tìm hiểu cách sử dụng để không làm phiền khách hàng.",
+        "Khéo léo nhờ khách hướng dẫn do mình chưa sử dụng qua loại máy này bao giờ."
+      ]
+    },
+    {
+      "id": "5",
+      "type": "ONE_CHOICE",
+      "question": "Theo bạn chúng ta lên vứt rác vào thời điểm nào? khi vứt rác có báo khách kiểm tra không?",
+      "rightAnswer": [1],
+      "choices": [
+        "Gom rác và mang đi bỏ trước khi dọn vệ sinh.",
+        "Gom rác lại trong quá trình dọn dẹp và mang đi bỏ khi đã hoàn thành tất cả công việc. Phải báo với khách và hỏi nơi bỏ đúng quy định.",
+        "Không cần báo khách."
+      ]
+    },
+    {
+      "id": "6",
+      "type": "ONE_CHOICE",
+      "question": "Trước khi tiến hành giặt quần áo, người giúp việc cần làm gì đầu tiên?",
+      "rightAnswer": [0],
+      "choices": [
+        "Phân loại quần áo trắng, quần áo màu đậm, quần áo màu nhạt để tránh bị lem màu khi giặt.",
+        "Ngâm quần áo để tan bớt vết bẩn.",
+        "Chỉ cần bỏ vào giặt không cần làm gì nữa."
+      ]
+    }
+  ]
+}

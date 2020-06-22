@@ -1,0 +1,45 @@
+{
+  "id": "2",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra cách sử dụng hóa chất",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_8.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_7.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Cần lưu ý gì khi sử dụng hóa chất cho các khu vực?",
+      "rightAnswer": [3],
+      "choices": [
+        "Cần phân biệt hóa chất sao cho mỗi khu vực cần làm sạch trong ngôi nhà sao cho hợp lý và đúng mục đích.Và chỉ sử dụng khi biết công dụng chính xác của hóa chất đó",
+        "Tuyệt đối không sử dụng chất tẩy mạnh (vim...) cho các vật dụng inox..",
+        "Sau khi sử dụng hóa chất xong cho mỗi vị trí và vật dụng nên rửa lại bằng nước sạch hoặc lau lại bằng khăn sạch nhiều lần để đảm bảo sức khỏe cho gia đình khách hàng.",
+        "Tất cả đáp án trên."
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Những hóa chất nào sau đây được phép sử dụng trong việc dọn dẹp nhà vệ sinh?",
+      "rightAnswer": [3],
+      "choices": [
+        "A. Nước xịt kính,nước rửa chén, nước lau sàn.",
+        "B. Vim, dung dịch tẩy đa năng.",
+        "C. Nước xả vải, sữa tắm của khách.",
+        "D. A và B đều đúng."
+      ]
+    },
+    {
+      "id": "2",
+      "type": "ONE_CHOICE",
+      "question": " Vì sao nên dùng khăn đa năng khi lau dọn?",
+      "rightAnswer": [1],
+      "choices": [
+        "Không nên dùng khăn đa năng vì lau không sạch.",
+        "Không đổ lông, không gây trầy xước.",
+        "Không cần giặt, khăn tự diệt khuẩn."
+      ]
+    }
+  ]
+}

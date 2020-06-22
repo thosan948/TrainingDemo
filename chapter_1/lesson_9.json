@@ -1,0 +1,38 @@
+{
+  "id": "9",
+  "type": "LESSON",
+  "title": "Dọn phòng ngủ",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_10.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_8.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_4.json",
+  "quizzId": "4",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_3.json",
+  "content" : [
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/bdbtQBQHhqEbpNzHF"},
+    {"h1": "Quy trình lau dọn phòng ngủ"},
+    {"list": [
+      {"line": [
+        {"text": "Phủi bụi rèm cửa, trần nhà, lau cửa kính, cửa sổ (cần phủ giường để tránh bụi)."}
+      ]},
+      {"line": [
+        {"text": "Gỡ ga cũ và thay ga mới hoặc mang đi giặt; dùng khăn ẩm lau đầu giường, sắp xếp lại gối mền."}
+      ]},
+      {"line": [
+        {"text": "Dùng khăn ẩm lau bề mặt tủ, kệ trong phòng."}
+      ]},
+      {"line": [
+        {"text": "Lau sàn nhà, với sàn gỗ lưu ý lau theo vân gỗ và phải lau bằng khăn vắt thật khô."}
+      ]},
+      {"line": [
+        {"text": "Chú ý lau luôn cả cánh cửa phòng."}
+      ]},
+      {"line": [
+        {"text": "Thu gom và đổ rác."}
+      ]},
+      {"line": [
+        {"text": "Nhìn bao quát lại một lần nữa và nhớ đóng cửa khi ra khỏi phòng."}
+      ]}
+    ]},
+    {"video": "XClqGmpX7ac"}
+  ]
+}
