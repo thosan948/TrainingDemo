@@ -2,8 +2,8 @@
   "id": "2",
   "type": "LESSON",
   "title": "Định hướng nghề nghiệp",
-  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_3.json",
-  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_1.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_3.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_1.json",
   "quizzLink": null,
   "content": [
     {

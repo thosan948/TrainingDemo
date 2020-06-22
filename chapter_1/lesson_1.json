@@ -2,8 +2,8 @@
   "id": "1",
   "type": "LESSON",
   "title": "Lợi ích khi trở thành CTV",
-  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_2.json",
-  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_0.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_2.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_0.json",
   "quizzLink": null,
   "content": [
     {

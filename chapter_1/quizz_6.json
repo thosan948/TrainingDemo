@@ -5,7 +5,7 @@
   "scoreRate": 80,
   "nextLesson": null,
   "isFinal": true,
-  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_11.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_11.json",
   "componentQuizzIds": ["0", "1", "2", "3", "4", "5"],
   "questions": [
     {

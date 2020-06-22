@@ -2,11 +2,11 @@
   "id": "7",
   "type": "LESSON",
   "title": "Cách sử dụng chất tẩy rửa",
-  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_8.json",
-  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_6.json",
-  "quizzLink": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_2.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_8.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_6.json",
+  "quizzLink": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/quizz_2.json",
   "quizzId": "2",
-  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_1.json",
+  "previousQuizz": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/quizz_1.json",
   "content" : [
     {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/idNWGDTwGBAeFKKXi"},
     {"line": [

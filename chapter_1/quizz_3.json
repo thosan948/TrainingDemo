@@ -3,8 +3,8 @@
   "type": "QUIZZ",
   "title": "Bài kiểm tra dọn dẹp bếp",
   "scoreRate": 80,
-  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_9.json",
-  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_8.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_9.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_8.json",
   "questions": [
     {
       "id": "0",

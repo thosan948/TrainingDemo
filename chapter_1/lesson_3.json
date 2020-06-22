@@ -2,8 +2,8 @@
   "id": "3",
   "type": "LESSON",
   "title": "Tác phong, diện mạo của Cộng Tác Viên",
-  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_4.json",
-  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_2.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_4.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingDemo/master/chapter_1/lesson_2.json",
   "quizzLink": null,
   "content": [
     {
